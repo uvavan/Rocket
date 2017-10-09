@@ -1,5 +1,4 @@
-//
-//  ViewController.swift
+////  ViewController.swift
 //  prog2
 //
 //  Created by Admin on 09.10.2017.
