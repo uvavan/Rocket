@@ -19,6 +19,7 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        print("11")
         // Do any additional setup after loading the view, typically from a nib.
         let path = Bundle.main.path(forResource: "rocket_launch", ofType: "mp3")!
         let url = URL(fileURLWithPath: path)
